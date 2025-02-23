@@ -5,3 +5,5 @@ U
 %contracts/multiversal-governance.clar,5/a/5af4a9ea6b1e4a32fd8bde6eb8e3897e0a4ed10f
 T
 $tests/multiversal-governance.test.ts,7/9/79b186936b08260476bbbb8b9af542913b9aea6b
+]
+-contracts/reality-discrepancy-resolution.clar,2/7/27ef7068720b871e0480545eaecef5cb24081e6a
