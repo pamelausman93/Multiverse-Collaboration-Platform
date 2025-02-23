@@ -7,3 +7,5 @@ T
 $tests/multiversal-governance.test.ts,7/9/79b186936b08260476bbbb8b9af542913b9aea6b
 ]
 -contracts/reality-discrepancy-resolution.clar,2/7/27ef7068720b871e0480545eaecef5cb24081e6a
+\
+,tests/reality-discrepancy-resolution.test.ts,b/d/bdd09ce16476f1a0a3ff55e4c6df93807de3bf00
